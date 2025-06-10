@@ -9,7 +9,7 @@ import server from "../envirenment.js"
 export const AuthContext = createContext({});
 
 const client = axios.create({
-    baseURL: "http://localhost:3000"
+    baseURL: "https://zoom-meeting-app-cwiv.onrender.com"
 })
 
 
