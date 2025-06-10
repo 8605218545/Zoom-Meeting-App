@@ -16,7 +16,7 @@ import server from "../envirenment.js"
 
 import withAuth from '../utils/withAuth';
 
-const server_url =  "http://localhost:3000";
+const server_url =  "https://zoom-meeting-app-cwiv.onrender.com";
 // const server_url =  server;
 
 var connections = {};
